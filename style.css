@@ -178,7 +178,7 @@
 @media (max-width:410px){
 
   .container{
-    height: 90vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
