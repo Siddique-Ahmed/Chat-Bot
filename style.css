@@ -171,3 +171,17 @@
   margin-right: 6px;
   cursor: pointer;
 }
+
+
+/* ##################### medai query ######################### */
+
+@media (max-width:410px){
+
+  .container{
+    height: 80vh;
+  }
+  .chatBoxContainer{
+    height: 100%;
+    width: 100%;
+  }
+}
